@@ -18,7 +18,7 @@ AutoHotkey is a free, open source macro-creation and automation software utility
 
 A Minecraft pathfinder bot.
 
-#What is Altoclef?
+# What is Altoclef?
 
 Plays block game.
 
@@ -27,10 +27,12 @@ Powered by Baritone.
 A client side bot that can accomplish any Minecraft task that is relatively simple and can be split into smaller tasks. "Relatively Simple" is a vague term, so check the list of current capabilities to see examples.
 
 Became the first bot to beat Minecraft fully autonomously on May 24, 2021.
-Usage
+
+# Usage
 
 While the beta version of AHK.MC is actively been developed it will remain private. However, AutoHotKey, Baritone, and Altoclef, are all open source and available for public use.
-Versions
+
+# Versions
 
 Currently only available for Minecraft 1.18.
 
